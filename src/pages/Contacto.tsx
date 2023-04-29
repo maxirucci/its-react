@@ -1,4 +1,4 @@
-import { FormularioContacto } from "../../components/contacto/Formulario"
+import { FormularioContacto } from "../components/contacto/Formulario"
 
 export const ContactoPage = () => {
   return (

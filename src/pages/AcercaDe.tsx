@@ -1,4 +1,4 @@
-import { TarjetaAcercaDe } from "../../components/acercaDe/tarjetaAcercaDe"
+import { TarjetaAcercaDe } from "../components/acercaDe/tarjetaAcercaDe"
 
 export const AcercaDePage = () => {
 

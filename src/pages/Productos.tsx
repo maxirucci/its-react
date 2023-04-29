@@ -1,4 +1,4 @@
-import { TarjetaProductos } from "../../components/productos/TarjetaProductos"
+import { TarjetaProductos } from "../components/productos/TarjetaProductos"
 
 export const ProductosPage = () => {
   return (

@@ -1,9 +1,9 @@
 import { BrowserRouter as Router, Link, Routes, Route } from "react-router-dom";
 
-import { InicioPage } from "./pages/inicio/Inicio-page.tsx";
-import { ContactoPage } from "./pages/contacto/Contacto-page.tsx";
-import { ProductosPage } from "./pages/productos/Productos-page.tsx";
-import { AcercaDePage } from "./pages/acercaDe/AcercaDe-page.tsx";
+import { InicioPage } from "./pages/Inicio.tsx";
+import { ProductosPage } from "./pages/Productos.tsx";
+import { ContactoPage } from "./pages/Contacto.tsx";
+import { AcercaDePage } from "./pages/AcercaDe.tsx";
 
 function App() {
   return (
