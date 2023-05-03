@@ -1,3 +1,5 @@
+import { Carrucel } from "../components/inicio/carrucel"
+
 export const InicioPage = () => {
   return (
     <>
@@ -5,7 +7,8 @@ export const InicioPage = () => {
         <h1 className="text-center">Página de inicio</h1>
 
         <section>
-          <p className="text-center">Esto es un carrusel. ¡Sí! ¡Un carrusel!</p>
+          <h3 className="text-center">Esto es un carrusel. ¡Sí! ¡Un carrusel!</h3>
+          <Carrucel />
         </section>
 
         <div>
